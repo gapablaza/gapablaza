@@ -5,11 +5,11 @@
 
 - 👨‍💻 La mayoría de mis proyectos personales se encuentran disponibles en Bitbucket, pero ahora me estoy migrando a GitHub partiendo por mi principal proyecto: Intercambia Láminas ([https://intercambialaminas.com/](https://intercambialaminas.com/))
 
-- 📫 Siempre me pueden encontrar por email a **gerson.eaa@gmail.com**
+- 📫 Siempre me pueden encontrar por email a **gerson.eaa@gmail.com** ya que no estoy muy activo en redes sociales últimamente (demasiada distracción y mala onda)
 
-- 📄 Para revisar un resumen de mi experiencia laboral puedes visitar mi perfil en LinkedId [https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/](https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/)
+- 📄 Actualmente estoy trabajando en el sector público, luego de trabajar casi 12 años en el privado, ampliando conocimientos y buscando como mejorar los procesos y flujos internos de la organización. Para revisar un resumen de mi experiencia laboral puedes visitar mi perfil en LinkedId [https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/](https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/)
 
-- ⚡ Si bien me había alejado temporalmente del desarrollo de software, me sirvió para darme cuenta que es lo que realmente me gusta, así que ahora me estoy preparando para volver con todo! **No importa la edad para tomar nuevos desafíos!!!**
+- ⚡ De formación Ingeniero Civil Industrial con mención en Informática, en los últimos años me he alejado un poco del desarrollo de software, pero me ha servido para darme cuenta que es lo que realmente me gusta hacer, por lo que me estoy capacitando y poniendo al día, para un futuro no lejano dedicarme a ésto full time! **No importa la edad para tomar nuevos desafíos!!!**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
