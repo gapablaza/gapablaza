@@ -1,11 +1,11 @@
 <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Gerson</h1>
 <h3>Jefe de Proyectos de Software, Analista de Sistemas, Front-End Designer, siempre buscando como mejorar!</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@gersonapablaza-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gersonapablaza)](https://twitter.com/gersonapablaza) [![Linkedin Badge](https://img.shields.io/badge/-Gerson_Apablaza_Arias-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/)](https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/)
+[![Twitter Badge](https://img.shields.io/badge/-@gersonapablaza-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gersonapablaza)](https://twitter.com/gersonapablaza) [![Linkedin Badge](https://img.shields.io/badge/-Gerson_Apablaza_Arias-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gersonapablaza/)](https://www.linkedin.com/in/gersonapablaza/)
 
 - ⚡ De formación Ingeniero Civil Industrial con mención en Informática, en los últimos años me he alejado un poco del desarrollo de software, pero me ha servido para darme cuenta que es lo que realmente me gusta hacer, por lo que me estoy capacitando y poniendo al día, para un futuro no lejano dedicarme a ésto full time! **No importa la edad para tomar nuevos desafíos!!!**
 
-- 📄 Actualmente estoy trabajando en el sector público, luego de trabajar casi 12 años en el privado, ampliando conocimientos y buscando como mejorar los procesos y flujos internos de la organización. Para revisar un resumen de mi experiencia laboral puedes visitar mi perfil en LinkedIn [https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/](https://www.linkedin.com/in/gerson-apablaza-arias-81bb0225/)
+- 📄 Actualmente estoy trabajando en el sector público, luego de trabajar casi 12 años en el privado, ampliando conocimientos y buscando como mejorar los procesos y flujos internos de la organización. Para revisar un resumen de mi experiencia laboral puedes visitar mi perfil en LinkedIn [https://www.linkedin.com/in/gersonapablaza/](https://www.linkedin.com/in/gersonapablaza/)
 
 - 👨‍💻 La mayoría de mis proyectos personales se encuentran alojados en Bitbucket, pero ahora me estoy migrando a GitHub partiendo por mi principal proyecto: Intercambia Láminas ([https://intercambialaminas.com/](https://intercambialaminas.com/))
 
