@@ -1,4 +1,4 @@
-<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Gerson</h1>
+<h1>Hola, Soy Gerson</h1>
 <h3>Jefe de Proyectos de Software, Analista de Sistemas, Front-End Designer, siempre buscando como mejorar!</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@gersonapablaza-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gersonapablaza)](https://twitter.com/gersonapablaza) [![Linkedin Badge](https://img.shields.io/badge/-Gerson_Apablaza_Arias-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gersonapablaza/)](https://www.linkedin.com/in/gersonapablaza/)
